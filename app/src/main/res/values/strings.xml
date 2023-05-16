@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04 Reservation</string>
+    <string name="name">Name</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="no_of_pax">No. of pax</string>
+    <string name="reservation">RESERVATION</string>
+    <string name="type">TABLE TYPE</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="reset">RESET</string>
+    <string name="smoking">Smoking</string>
+    <string name="not_smoking">Not Smoking</string>
+    <string name="reservation_details">RESERVATION DETAILS</string>
+</resources>
